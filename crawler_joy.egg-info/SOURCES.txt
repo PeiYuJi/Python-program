@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+crawer_joy/__init__.py
+crawler_joy.egg-info/PKG-INFO
+crawler_joy.egg-info/SOURCES.txt
+crawler_joy.egg-info/dependency_links.txt
+crawler_joy.egg-info/top_level.txt
